@@ -2,7 +2,7 @@
 #include <iostream.h>
 #include <stdio.h>
 
-
+//asssssssssssssssssssssssssssssssssssssssssass
 float n,x;
 
 float fib(float n)
