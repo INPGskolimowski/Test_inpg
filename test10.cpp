@@ -2,7 +2,7 @@
 #include <stdio.h>
 #include <iostream.h>
 
-printf"aaaajijijijiji";
+printf"aaaa";  printf"aaaa";
 
 float suma (float a, float b)
 {
