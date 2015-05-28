@@ -6,7 +6,7 @@
 float n,x;
 
 float fib(float n)
-
+//asfffffffffffff//
 {
     if (n==0)
     return 0;
