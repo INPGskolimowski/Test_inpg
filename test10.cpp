@@ -1,6 +1,8 @@
-//123232232232
+
 #include <stdio.h>
 #include <iostream.h>
+
+printf"aaaa";
 
 float suma (float a, float b)
 {
